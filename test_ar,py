@@ -1,0 +1,8 @@
+import unix_ar
+
+ar = unix_ar.Archive(output + + "/" + name + ".a")
+		ar.read_all_headers()
+		for f in ar.archived_files.keys():
+			out_path = output + "/" + f
+			with open(out_path.rstrip('\0'), 'wb') as wf: 
+				wf.write(ar.archived_files[f].read())

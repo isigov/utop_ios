@@ -1,0 +1,29 @@
+name,count
+VungleAdvertiserSDK             ,4
+CAUMengSocial                   ,2
+GoogleAnalytics-iOS-SDK         ,10
+UMengSocialCOM                  ,3
+GoogleSymbolUtilities           ,8
+GoogleNetworkingUtilities       ,43
+MMUMOpenIM                      ,13
+VungleSDK-iOS                   ,2
+BRRecord                        ,468
+AppsFlyer-SDK                   ,5
+BugSense                        ,1
+google-plus-ios-sdk             ,21
+UMengSocial                     ,1
+GoogleAuthUtilities             ,11
+WePay                           ,36
+NendSDK_iOS                     ,10
+Batch                           ,4
+GoogleSignIn                    ,12
+PureWeb                         ,1
+GoogleIDFASupport               ,327
+GoogleUtilities                 ,303
+Brightcove-Video-Cloud-Player-SD,1
+Google-Mobile-Ads-SDK           ,10
+PLCrashReporter                 ,62
+MillennialMediaSDK              ,68
+GoogleTagManager                ,333
+GooglePlusUtilities             ,28
+(27 rows)
